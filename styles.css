@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+
+p{
+	font-weight:bold;
+}
+
+p .favorite-color{
+	color:green;
+}
